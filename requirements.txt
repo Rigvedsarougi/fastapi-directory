@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydub
+SpeechRecognition
+pandas
