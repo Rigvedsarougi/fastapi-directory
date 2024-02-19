@@ -3,3 +3,4 @@ uvicorn
 pydub
 SpeechRecognition
 pandas
+python-multipart
