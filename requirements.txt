@@ -4,3 +4,4 @@ pydub
 SpeechRecognition
 pandas
 python-multipart
+ffmpeg
